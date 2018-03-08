@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/family_member"
+            android:icon="@drawable/ic_attach_money_black_24dp"
+            android:title="Savings"/>
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_attach_money_black_24dp"
+            android:title="Checking"/>
+        <item
+            android:id="@id/check_accounts"
+            android:icon="@drawable/ic_done_black_24dp"
+            android:title="Check Accounts"/>
+        <item
+            android:id="@+id/deposit"
+            android:icon="@drawable/ic_arrow_downward_black_24dp"
+            android:title="Deposit"/>
+        <item
+            android:id="@+id/withdrawal"
+            android:icon="@drawable/ic_arrow_upward_black_24dp"
+            android:title="Withdraw"/>
+        <item
+            android:id="@+id/contact"
+            android:icon="@drawable/ic_contact_phone_black_24dp"
+            android:title="Contact Us"/>
+    </group>
+</menu>

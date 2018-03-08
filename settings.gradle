@@ -1,0 +1,2 @@
+include ':BankingApp'
+include ':app'
